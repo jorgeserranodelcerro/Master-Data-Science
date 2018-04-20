@@ -1,4 +1,4 @@
 # Master-Data-Science
 
 
-Esto es una [b]prubea[/b], digo, **test**
+Esto es una prueba, digo, **test**
