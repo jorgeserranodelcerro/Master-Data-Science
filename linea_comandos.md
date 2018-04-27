@@ -20,4 +20,4 @@ Aquí dejo algunos de los comandos que hemos aprendido.
 
 
 Como resumen de git hemos visto:
-[alt x](esquema_Git.png)
+![alt x](esquema_Git.png)
