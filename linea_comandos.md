@@ -19,5 +19,5 @@ Aquí dejo algunos de los comandos que hemos aprendido.
 	+ | --> el uso del pipe nos sirve para encadenar distintos comandos.
 
 
-Como resumen de git hemos visto:
+# GIT
 ![alt x](esquema_Git.png)
