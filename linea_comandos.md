@@ -1,4 +1,4 @@
-#Linea de Comandos
+# Linea de Comandos
 
 Aquí dejo algunos de los comandos que hemos aprendido.
 
