@@ -16,8 +16,26 @@ Aquí dejo algunos de los comandos que hemos aprendido.
 	+ head <fichero> --> Muestra las primeras lineas de un fichero.
 	+ tail <fichero> --> Muestra las últimas lineas de un fichero.
 	+ find --> Busca un fichero por nombre y/o tipo fichero y/o tamaño y/o última modificación, etc.
-	+ | --> el uso del pipe nos sirve para encadenar distintos comandos.
+	+ | --> el uso del pipe nos sirve para encadenar distintos comandos.	
+	+ uniq --> nos devuelve o elimina (depende los parametros) los duplicados.
+	+ sort --> ordena las lineas de un texto. Podemos indicarle el delimitador en un fichero csv.
+	+ cut --> podemos decir el delimitador y nos podemos quedar con las columnas que queramos.
+	+ paste --> concatena horizontalmente.
+	+ tr --> el típico replace de otros lenguajes, nos permite cambiar o borrar un patrón.
+	+ grep --> nos permite quedarnos solo con las lineas que cumplen un patrón.
+	+ zip/unzip, zipinfo, ... --> Comando para trabjar con ficheros comprimidos
+	+ Jobs en background, matar proceso ...
+	+ Shel Cript --> Hemos creado nuestro propio script con parametros de entrada y lo hemos ejecutado desde la consola. Además,  lo hemos añadido al PATH.
 
+
+# CSVKIT
+Hemos visto una serie de comandos para trabajar con CSVs. Algunos ejemplos son:
++ csvlook --> Nos permite ver un ficheros csv como una tabla.
++ csvstat --> Nos devuelve las estadisticas sobre casa columna del csv.
++ csvcut --> lo mismo que teniamos en el comando cut.
++ csvgrep --> similar al comando grep pero sobre un csv.
++ csvsort --> ordenad las columnas de un csv.
++ csvsql --> genera la sentencia CREATE TABLE del csv del lenguaje sql indicado.
 
 # GIT
 ![alt x](esquema_Git.png)
