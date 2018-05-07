@@ -40,7 +40,3 @@ Hemos visto una serie de comandos para trabajar con CSVs. Algunos ejemplos son:
 # GIT
 ![alt x](esquema_Git.png)
 
-# CHEAT SHEETS
-![alt x](git.pdf)
-![alt x](Linux01.png)
-![alt x](Linux02.pdf)
