@@ -42,7 +42,5 @@ Hemos visto una serie de comandos para trabajar con CSVs. Algunos ejemplos son:
 
 # CHEAT SHEETS
 ![alt x](git.pdf)
-![alt x](Linux01.pdf)
+![alt x](Linux01.png)
 ![alt x](Linux02.pdf)
-
-<img src="git.pdf" alt="some text"  width="4200" height="4200">
